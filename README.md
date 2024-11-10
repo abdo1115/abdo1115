@@ -1,4 +1,4 @@
-# Hi, I'm [Abdo]! 👋
+# Hi, I'm Abdo! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and problem solver. I love working with various programming languages and tools to create innovative and efficient solutions. Feel free to explore my repositories, contribute, and connect with me!
 
