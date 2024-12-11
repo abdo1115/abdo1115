@@ -1,40 +1,40 @@
-# Hi, I'm Abdo! 👋
+# Salut, je suis Abdo ! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer and problem solver. I love working with various programming languages and tools to create innovative and efficient solutions. Feel free to explore my repositories, contribute, and connect with me!
+Bienvenue sur mon profil GitHub ! Je suis un développeur passionné et un résolveur de problèmes. J'adore travailler avec différents langages et outils de programmation pour créer des solutions innovantes et efficaces. N'hésitez pas à explorer mes référentiels, à contribuer et à communiquer avec moi !
 
-## 🚀 About Me
+## 🚀 À propos de moi
 
-- 🔭 I’m currently working on [My Presonal windws].
-- 🌱 I’m constantly learning and exploring new technologies, currently diving into [Technology/Language you're learning].
-- 👯 I’m looking to collaborate on interesting projects, especially related to [specific areas of interest].
-- 🤔 I’m open to suggestions for improvement and collaboration.
-- 💬 Ask me about [Topics you're knowledgeable about or willing to help with].
-- 📫 How to reach me: [Your contact information or links to social media profiles].
+- 🔭 Je travaille actuellement sur [My Presonal windows].
+- 🌱 J'apprends et explore constamment de nouvelles technologies, je plonge actuellement dans [Technologie/Langue que vous apprenez].
+- 👯 Je cherche à collaborer sur des projets intéressants, notamment liés à [domaines d'intérêt spécifiques].
+- 🤔 Je suis ouvert aux suggestions d'amélioration et de collaboration.
+- 💬 Posez-moi des questions sur [Sujets que vous connaissez ou sur lesquels vous êtes prêt à aider].
+- 📫 Comment me contacter : [Vos coordonnées ou des liens vers des profils de réseaux sociaux].
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies et outils
 
-- **Languages:** JavaScript, Python, Java, C++, HTML/CSS, etc.
-- **Tools & Frameworks:** React, Node.js, Django, Flask, etc.
-- **Version Control:** Git, GitHub
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Cloud & DevOps:** AWS, Docker, Kubernetes
+- **Langues :** JavaScript, Python, Java, C++, HTML/CSS, etc.
+- **Outils et frameworks :** React, Node.js, Django, Flask, etc.
+- **Contrôle de version :** Git, GitHub
+- **Bases de données :** MySQL, PostgreSQL, MongoDB
+- **Cloud et DevOps :** AWS, Docker, Kubernetes
 
-## 🏆 GitHub Stats
+## 🏆 Statistiques GitHub
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdo1115&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Vos statistiques GitHub](https://github-readme-stats.vercel.app/api?username=abdo1115&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-## 📂 Featured Projects
+## 📂 Projets phares
 
-- [Project 1 Name](Link to project) - Short description of the project.
-- [Project 2 Name](Link to project) - Short description of the project.
-- [Project 3 Name](Link to project) - Short description of the project.
+- [Nom du projet 1](Lien vers le projet) - Brève description du projet.
+- [Nom du projet 2](Lien vers le projet) - Brève description du projet.
+- [Nom du projet 3](Lien vers le projet) - Brève description du projet.
 
-## 📈 GitHub Activity
+## 📈 Activité GitHub
 
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdo1115&theme=react)
+![Votre graphique d'activité GitHub](https://activity-graph.herokuapp.com/graph?username=abdo1115&theme=react)
 
-## 🤝 Let's Connect
+## 🤝 Connectons-nous
 
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
-- [Personal Website](Your Website Link)
+- [LinkedIn](Lien vers votre profil LinkedIn)
+- [Twitter](Lien vers votre profil Twitter)
+- [Site Web personnel](Lien vers votre site Web)
